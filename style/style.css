@@ -51,3 +51,12 @@ div{
     font-size: 36px;
     color: #ccc;
 }
+
+.link_with_class{
+    text-decoration: none;
+}
+
+.blok500{
+    height: 500px;
+    width: 100%;
+}
