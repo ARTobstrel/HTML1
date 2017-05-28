@@ -86,8 +86,26 @@ div{
     margin: 10px;
 }
 
-.block_list.div{
+.block_list div{
     float: left;
     width: 185px;
     margin: 0px 5px 0px 5px;
+}
+
+.block_list2 div{
+    margin: 0px auto;
+    width: 250px;
+}
+.clr{
+    clear:both;
+}
+
+.block_list2 li{
+    list-style-image: url("../images/microsoft.png");
+}
+
+.inline_list li{
+    /*display: inline;*/
+    float: left;
+    margin: 30px;
 }
