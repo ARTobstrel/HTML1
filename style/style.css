@@ -109,3 +109,22 @@ div{
     float: left;
     margin: 30px;
 }
+
+#special_table{
+    width: 100%;
+    background: #FFF;
+    color: #000;
+    border-spacing: 1px; /* Растояние между ячейками */
+}
+
+#special_table caption{
+    font-size: 18px;
+    font-weight: bold;
+    border: 1px dotted;
+}
+
+#special_table td{
+    background: maroon;
+    color: yellow;
+    padding: 5px;
+}
