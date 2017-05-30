@@ -128,3 +128,18 @@ div{
     color: yellow;
     padding: 5px;
 }
+
+.sr_unput{
+    background-color: #FFFFFF;
+    background-image: url("../images/user32.png");
+    background-position: 95% 50%;
+    background-repeat: no-repeat;
+    height: 40px;
+    width: 200px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    font-family: Arial;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: bold;
+}
